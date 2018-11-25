@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <h1>Вычисление суммы простых дробей</h1>
     <form class="fraction-form">
       <div class="fraction-expression-wrapper"> 
         <div class="fraction-expression">
@@ -210,6 +211,11 @@ export default {
 
   h1, h2 {
     font-weight: normal;
+  
+  }
+
+  h1{
+    margin-bottom: 75px;
   }
 
   .fraction-form{

@@ -25,11 +25,6 @@
       fraction: Object
     },
     
-    data(){
-      return {
-      };
-    },
-
     methods:{
 
       keyEnter(e){
